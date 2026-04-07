@@ -22,7 +22,7 @@ This class focuses on loops in Python, covering their types, usage, and related 
             count += 1  # Outputs: 0, 1, 2, 3, 4
       ```
 
-#### 3. **Nested Loops**
+#### 3. **Nested Loops** (Not in this class)
     - Loops inside loops, useful for multi-dimensional data.
     - Example:
       ```python
@@ -52,3 +52,5 @@ This class focuses on loops in Python, covering their types, usage, and related 
       ```
 
 This class includes exercises and questions to practice these concepts. Read the full documentation for in-depth examples and best practices.
+
+Made with ❤️ by [ElonCoding](https://github.com/ElonCoding)
