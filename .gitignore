@@ -1,3 +1,6 @@
 .vscode
 /node_modules
 /dist
+./Class2/.ipynb_checkpoints/notebook-checkpoint.ipynb
+./Class2/notebook.ipynb
+./Class2/.ipynb_checkpoints/notebook-checkpoint.ipynb
